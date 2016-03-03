@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyllated
-email:       jdwallace12@example.com
-author:      John Wallace
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     "/pixyllated"
-url:         "jdwallace12.github.io/pixyllated/"
+title:       Rob's Random Ramblings
+email:       rgrzywinski@yahoo.com
+author:      Rob Grzywinski
+description: "Rob's Randon Ramblings"
+baseurl:     "/"
+url:         "rgrzywinski.github.io/"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -21,7 +21,7 @@ enable_mathjax: false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname: pixyll
+disqus_shortname: rgrzywinski
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
