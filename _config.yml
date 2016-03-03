@@ -5,6 +5,8 @@ baseurl:     ""
 title:       Rob's Random Ramblings
 email:       rgrzywinski@yahoo.com
 author:      Rob Grzywinski
+author-image: /images/rob_grzywinski.jpg
+author-bio:  Combines entrepreneurial instinct, stellar technical skills and infectious enthusiasm for transforming the impossible into possible. Establishes rapport with members of diverse groups and is a universal translator between business, product and technology. Recognizes excellence in individuals, provides effective mentoring and inspires to achieve their potential. Decisive leader that fosters a culture of accountability, integrity and respect.
 description: "Rob's Randon Ramblings"
 
 date_format: "%b %-d, %Y"
