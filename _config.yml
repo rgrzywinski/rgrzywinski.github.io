@@ -1,10 +1,12 @@
 # Site settings
+url:         "http://rgrzywinski.github.io"
+baseurl:     ""
+
 title:       Rob's Random Ramblings
 email:       rgrzywinski@yahoo.com
 author:      Rob Grzywinski
 description: "Rob's Randon Ramblings"
-baseurl:     "/"
-url:         "rgrzywinski.github.io/"
+
 date_format: "%b %-d, %Y"
 
 # Google services
