@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Disrupting Art
-subtitle: Democratizing Art: We can make paintings available to everyone
+subtitle: Democratizing Art- We can make paintings available to everyone
 description: XXX
 date: 2016-04-16 02:34:56
 categories: Ideas

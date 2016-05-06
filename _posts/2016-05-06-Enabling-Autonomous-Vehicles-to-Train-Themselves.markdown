@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Enabling Autonomous Vehicles to Train Themselves
-description: Combining virtual and real worlds to improve algorithm training
+subtitle: Combining virtual and real worlds to improve algorithm training
 date: 2016-05-06 03:45:43
 categories: Ideas
 comments: true
